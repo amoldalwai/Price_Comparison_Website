@@ -45,7 +45,7 @@ alt="RoadFighter " width="240" height="180" border="10" /></a>
 ### Installing
 
 ```
-extract in Xamp/htdocs and run on localhost
+extract in ..xampp/htdocs and run on localhost
 ```
 
 ![Badge](https://img.shields.io/badge/Made%20by-Amol%20Dalwai-red?style=for-the-badge)

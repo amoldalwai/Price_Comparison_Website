@@ -14,7 +14,7 @@
 [Installing](#Installing)
 
 
-![Demonstartion Video](https://gifs.com/gif/D1vYRx)
+![Demonstartion Video](https://j.gifs.com/D1vYRx.gif)
 
 
 

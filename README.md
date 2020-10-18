@@ -21,12 +21,12 @@
 
 ## Features 
 
-- [x] Search bar to search products over various websites.
-- [x] Websites include Amazon, Flipkart and Snapdeal
-- [x] Latency from the point of clicking from search button to getting results is less than 5 seconds.
-- [x] Visit to site button ,provides direct redirection towards the clicked website.
-- [x] Supports multi-word queries in Search bar.
-- [x] Built on PHP Simple DOM web scraping platform.
+-  Search bar to search products over various websites.
+-  Websites include Amazon, Flipkart and Snapdeal
+- Latency from the point of clicking from search button to getting results is less than 5 seconds.
+-  Visit to site button ,provides direct redirection towards the clicked website.
+- Supports multi-word queries in Search bar.
+- Built on PHP Simple DOM web scraping platform.
 
 
 
